@@ -1,0 +1,1 @@
+What it does: The user picks details about a car, such as its buying price, maintenance cost, number of doors, passenger capacity, luggage boot size and safety level. The app then predicts whether the car is unacceptable, acceptable, good or very good.👍
